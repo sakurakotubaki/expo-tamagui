@@ -12,7 +12,7 @@
 
 ```bash
 # プロジェクトのクローン
-git clone <your-repository-url>
+git clone https://github.com/sakurakotubaki/expo-tamagui
 cd expo-tamagui
 
 # 依存関係のインストール
